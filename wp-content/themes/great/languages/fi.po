@@ -1,0 +1,443 @@
+# This file is distributed under the same license as the Great package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Great\n"
+"POT-Creation-Date: 2015-08-31 14:03+0200\n"
+"PO-Revision-Date: 2015-08-31 20:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Alvele.com\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Näyttää siltä että täällä ei ole mitään. Kokeilepa hakua?"
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "Vanhemmat kommentit"
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "Uudemmat kommentit"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:83
+msgid "Name"
+msgstr "Nimi"
+
+#: comments.php:84 inc/options-config.php:166 inc/options-config.php:172
+msgid "Email"
+msgstr "Sähköpostiosoite"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Kotisivu"
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr "Lähetä kommentti"
+
+#: comments.php:92
+msgid "Cancel reply"
+msgstr "Peruuta vastaus"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: content-page.php:21 inc/template-tags.php:17 inc/template-tags.php:210
+#: inc/template-tags.php:223
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-page.php:32 content-single.php:27 content.php:37
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: content.php:29
+msgid "Continue reading %s"
+msgstr "Jatka artikkeliin %s"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:109 functions.php:118 functions.php:127
+#: inc/options-config.php:191
+msgid "Footer"
+msgstr "Alatunniste"
+
+#: functions.php:109
+msgid "Left"
+msgstr "Vasemmalle"
+
+#: functions.php:118
+msgid "Center"
+msgstr "Keskelle"
+
+#: functions.php:127
+msgid "Right"
+msgstr "Oikealle"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: inc/admin/class.customized-controls.php:15
+#: inc/admin/class.customized-controls.php:39
+#: inc/admin/class.customized-controls.php:66
+msgid "Premium"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+#, php-format
+msgid "More options available in Pro version. <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/admin/class.customizer-api-wrapper.php:88
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/extras.php:65
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#: inc/extras.php:119 inc/options-config.php:217
+msgid "Read more..."
+msgstr "Lue lisää..."
+
+#: inc/options-config.php:9
+msgid "Hide"
+msgstr "Piilota"
+
+#: inc/options-config.php:18
+msgid "Enable this section"
+msgstr "jakso"
+
+#: inc/options-config.php:34 inc/options-config.php:352
+msgid "Slider"
+msgstr ""
+
+#: inc/options-config.php:39
+msgid "Select Page"
+msgstr "Valitse Sivu"
+
+#: inc/options-config.php:39
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: inc/options-config.php:39
+msgid "(required)"
+msgstr "(pakollinen)"
+
+#: inc/options-config.php:46 inc/options-config.php:90
+msgid "Custom Link"
+msgstr "Oma linkki"
+
+#: inc/options-config.php:58
+msgid "Add social media icons in Header"
+msgstr ""
+
+#: inc/options-config.php:64
+msgid "Add social media icons in Footer"
+msgstr ""
+
+#: inc/options-config.php:70
+msgid "Size"
+msgstr "Koko"
+
+#: inc/options-config.php:94 inc/options-config.php:96
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/options-config.php:102
+msgid "Enter the URL"
+msgstr "Syötä osoite (URL)"
+
+#: inc/options-config.php:107
+msgid "Open link in a new window/tab"
+msgstr "Avaa linkki uuteen ikkunaan tai välilehteen"
+
+#: inc/options-config.php:114
+msgid "Icon"
+msgstr "ikoni"
+
+#: inc/options-config.php:121 inc/options-config.php:268
+msgid "Color"
+msgstr "Väri"
+
+#: inc/options-config.php:140 inc/options-config.php:141
+msgid "Great Theme Options"
+msgstr ""
+
+#: inc/options-config.php:144
+msgid "Header"
+msgstr "Otsake"
+
+#: inc/options-config.php:149
+msgid "Logo Upload"
+msgstr "Logon lataus"
+
+#: inc/options-config.php:154 inc/options-config.php:160
+msgid "Address"
+msgstr "osoite"
+
+#: inc/options-config.php:160 inc/options-config.php:172
+#: inc/options-config.php:184 inc/options-config.php:262
+#: inc/options-config.php:284 inc/options-config.php:338
+msgid "Text color"
+msgstr "Tekstin väri"
+
+#: inc/options-config.php:178 inc/options-config.php:184
+msgid "Phone Number"
+msgstr "Puhelinnumero"
+
+#: inc/options-config.php:194 inc/options-config.php:199
+msgid "Quote"
+msgstr "Lainaus"
+
+#: inc/options-config.php:206
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: inc/options-config.php:212
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/options-config.php:218 inc/options-config.php:290
+msgid "Link Text"
+msgstr "Linkkiteksti"
+
+#: inc/options-config.php:224
+msgid "Style"
+msgstr "Tyyli"
+
+#: inc/options-config.php:224
+msgid "Display Settings"
+msgstr "Näyttöasetukset"
+
+#: inc/options-config.php:228
+msgid "Primary Color"
+msgstr "pääväri"
+
+#: inc/options-config.php:235 inc/options-config.php:247
+#: inc/options-config.php:275
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/options-config.php:235 inc/options-config.php:240
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/options-config.php:240 inc/options-config.php:252
+msgid "Background color"
+msgstr "Taustaväri"
+
+#: inc/options-config.php:247 inc/options-config.php:252
+msgid "Widgets"
+msgstr "Vimpaimet"
+
+#: inc/options-config.php:257
+msgid "Menu"
+msgstr "Valikko"
+
+#: inc/options-config.php:279
+msgid "All Posts"
+msgstr "Kaikki artikkelit"
+
+#: inc/options-config.php:297
+msgid "Font Sizes"
+msgstr "Tekstin koko"
+
+#: inc/options-config.php:303
+msgid "Metadata"
+msgstr "Metadata"
+
+#: inc/options-config.php:308
+msgid "Display post date?"
+msgstr "Näytä artikkelin päivämäärä?"
+
+#: inc/options-config.php:314
+msgid "Comments Count &amp; Link"
+msgstr ""
+
+#: inc/options-config.php:320
+msgid "Display item author if available?"
+msgstr "Näytä artikkelin kirjoittaja?"
+
+#: inc/options-config.php:326
+msgid "View Category"
+msgstr "Näytä kategoria"
+
+#: inc/options-config.php:332
+msgid "View Tag"
+msgstr "Näytä avainsana"
+
+#: inc/options-config.php:344
+msgid "Posts navigation"
+msgstr "Artikkelien selaus"
+
+#: inc/options-config.php:356
+msgid "Social Media"
+msgstr "Sosiaalinen media"
+
+#: inc/options-config.php:360
+msgid "Advanced Options"
+msgstr "Edistyneet asetukset"
+
+#: inc/options-config.php:364
+msgid "Custom CSS Styles"
+msgstr "Muokattava CSS tyyli"
+
+#: inc/options-config.php:370
+msgid "Restore Defaults"
+msgstr "Palauta oletukset"
+
+#: inc/template-tags.php:40
+msgid "Leave a comment"
+msgstr "Kommentoi"
+
+#: inc/template-tags.php:40
+msgid "1 Comment"
+msgstr "Yksi kommentti"
+
+#: inc/template-tags.php:40
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/template-tags.php:52
+msgid "Featured"
+msgstr "Suositeltu"
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Category: %s"
+msgstr "Kategoria: %s"
+
+#: inc/template-tags.php:88
+msgid "Tag: %s"
+msgstr "Avainsana: %s"
+
+#: inc/template-tags.php:90 inc/template-tags.php:348
+msgid "Author: %s"
+msgstr "Kirjoittajalta %s"
+
+#: inc/template-tags.php:92
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: inc/template-tags.php:94
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: inc/template-tags.php:96
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: inc/template-tags.php:118
+msgid "Archives: %s"
+msgstr "Arkistot: %s"
+
+#: inc/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:124
+msgid "Archives"
+msgstr "Arkistot"
+
+#: inc/template-tags.php:210
+msgid "Pingback:"
+msgstr "Paluuviite:"
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa hyväksyntää."
+
+#: inc/template-tags.php:248
+msgid "Page"
+msgstr "Sivu"
+
+#: inc/template-tags.php:254
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/template-tags.php:258
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:296
+msgid "Read More..."
+msgstr "Lue lisää..."
+
+#: inc/template-tags.php:348
+#, php-format
+msgid "Copyright &copy; %1$d %2$s."
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Powered by WordPress"
+msgstr "Moottorina WordPress"
+
+#: inc/template-tags.php:348
+msgid "<span>Active theme</span> %s"
+msgstr "<span>Aktiivinen teema</span> %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: searchform.php:8
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Haku:"
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Etsi"

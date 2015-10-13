@@ -1,0 +1,443 @@
+# This file is distributed under the same license as the Great package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Great\n"
+"POT-Creation-Date: 2015-08-31 14:03+0200\n"
+"PO-Revision-Date: 2015-08-31 20:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Alvele.com\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "이런! 해당 페이지를 찾을 수 없습니다."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "해당 위치에서 찾을 수 있는 것이 아무 것도 없는 것 같습니다. 검색을 해보시겠습니까?"
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "이전 댓글"
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "다음 댓글"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "댓글이 마감 됐습니다."
+
+#: comments.php:83
+msgid "Name"
+msgstr "이름"
+
+#: comments.php:84 inc/options-config.php:166 inc/options-config.php:172
+msgid "Email"
+msgstr "이메일"
+
+#: comments.php:85
+msgid "Website"
+msgstr "웹사이트"
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr "댓글 달기"
+
+#: comments.php:92
+msgid "Cancel reply"
+msgstr "응답 취소"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "찾을 수 없습니다"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송하지만 검색어와 일치하는 것이 없습니다. 다른 검색어로 다시 시도해보세요."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움이 될 수도 있습니다."
+
+#: content-page.php:21 inc/template-tags.php:17 inc/template-tags.php:210
+#: inc/template-tags.php:223
+msgid "Edit"
+msgstr "편집"
+
+#: content-page.php:32 content-single.php:27 content.php:37
+msgid "Pages:"
+msgstr "페이지:"
+
+#: content.php:29
+msgid "Continue reading %s"
+msgstr "%s 더보기"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "주 메뉴"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: functions.php:109 functions.php:118 functions.php:127
+#: inc/options-config.php:191
+msgid "Footer"
+msgstr "푸터"
+
+#: functions.php:109
+msgid "Left"
+msgstr "왼쪽"
+
+#: functions.php:118
+msgid "Center"
+msgstr "중앙"
+
+#: functions.php:127
+msgid "Right"
+msgstr "오른쪽"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "콘텐츠로 바로가기"
+
+#: inc/admin/class.customized-controls.php:15
+#: inc/admin/class.customized-controls.php:39
+#: inc/admin/class.customized-controls.php:66
+msgid "Premium"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+#, php-format
+msgid "More options available in Pro version. <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/admin/class.customizer-api-wrapper.php:88
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/extras.php:65
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#: inc/extras.php:119 inc/options-config.php:217
+msgid "Read more..."
+msgstr "더 보기..."
+
+#: inc/options-config.php:9
+msgid "Hide"
+msgstr "숨기기"
+
+#: inc/options-config.php:18
+msgid "Enable this section"
+msgstr "사용"
+
+#: inc/options-config.php:34 inc/options-config.php:352
+msgid "Slider"
+msgstr ""
+
+#: inc/options-config.php:39
+msgid "Select Page"
+msgstr "페이지를 선택하세요"
+
+#: inc/options-config.php:39
+msgid "Featured Image"
+msgstr "특성 이미지"
+
+#: inc/options-config.php:39
+msgid "(required)"
+msgstr "(필수)"
+
+#: inc/options-config.php:46 inc/options-config.php:90
+msgid "Custom Link"
+msgstr "사용자 정의 링크"
+
+#: inc/options-config.php:58
+msgid "Add social media icons in Header"
+msgstr ""
+
+#: inc/options-config.php:64
+msgid "Add social media icons in Footer"
+msgstr ""
+
+#: inc/options-config.php:70
+msgid "Size"
+msgstr "크기"
+
+#: inc/options-config.php:94 inc/options-config.php:96
+msgid "Title"
+msgstr "제목"
+
+#: inc/options-config.php:102
+msgid "Enter the URL"
+msgstr "URL 입력"
+
+#: inc/options-config.php:107
+msgid "Open link in a new window/tab"
+msgstr "새 창/탭에 링크 열기"
+
+#: inc/options-config.php:114
+msgid "Icon"
+msgstr "아이콘"
+
+#: inc/options-config.php:121 inc/options-config.php:268
+msgid "Color"
+msgstr "색상"
+
+#: inc/options-config.php:140 inc/options-config.php:141
+msgid "Great Theme Options"
+msgstr ""
+
+#: inc/options-config.php:144
+msgid "Header"
+msgstr "헤더"
+
+#: inc/options-config.php:149
+msgid "Logo Upload"
+msgstr "로고 올리기"
+
+#: inc/options-config.php:154 inc/options-config.php:160
+msgid "Address"
+msgstr "주소"
+
+#: inc/options-config.php:160 inc/options-config.php:172
+#: inc/options-config.php:184 inc/options-config.php:262
+#: inc/options-config.php:284 inc/options-config.php:338
+msgid "Text color"
+msgstr "텍스트 색상"
+
+#: inc/options-config.php:178 inc/options-config.php:184
+msgid "Phone Number"
+msgstr "전화 번호"
+
+#: inc/options-config.php:194 inc/options-config.php:199
+msgid "Quote"
+msgstr "인용"
+
+#: inc/options-config.php:206
+msgid "Author"
+msgstr "글쓴이"
+
+#: inc/options-config.php:212
+msgid "Link"
+msgstr "링크"
+
+#: inc/options-config.php:218 inc/options-config.php:290
+msgid "Link Text"
+msgstr "링크 텍스트"
+
+#: inc/options-config.php:224
+msgid "Style"
+msgstr "스타일"
+
+#: inc/options-config.php:224
+msgid "Display Settings"
+msgstr "표시 설정"
+
+#: inc/options-config.php:228
+msgid "Primary Color"
+msgstr "원색"
+
+#: inc/options-config.php:235 inc/options-config.php:247
+#: inc/options-config.php:275
+msgid "Background Image"
+msgstr "배경 이미지"
+
+#: inc/options-config.php:235 inc/options-config.php:240
+msgid "Content"
+msgstr "내용"
+
+#: inc/options-config.php:240 inc/options-config.php:252
+msgid "Background color"
+msgstr "배경 색상"
+
+#: inc/options-config.php:247 inc/options-config.php:252
+msgid "Widgets"
+msgstr "위젯"
+
+#: inc/options-config.php:257
+msgid "Menu"
+msgstr "메뉴"
+
+#: inc/options-config.php:279
+msgid "All Posts"
+msgstr "모든 글"
+
+#: inc/options-config.php:297
+msgid "Font Sizes"
+msgstr "폰트 사이즈"
+
+#: inc/options-config.php:303
+msgid "Metadata"
+msgstr "메타데이터"
+
+#: inc/options-config.php:308
+msgid "Display post date?"
+msgstr "글 작성일자를 표시할까요?"
+
+#: inc/options-config.php:314
+msgid "Comments Count &amp; Link"
+msgstr ""
+
+#: inc/options-config.php:320
+msgid "Display item author if available?"
+msgstr "가능하다면 제작자를 표시합니까?"
+
+#: inc/options-config.php:326
+msgid "View Category"
+msgstr "카테고리 보기"
+
+#: inc/options-config.php:332
+msgid "View Tag"
+msgstr "태그 보기"
+
+#: inc/options-config.php:344
+msgid "Posts navigation"
+msgstr "글 내비게이션"
+
+#: inc/options-config.php:356
+msgid "Social Media"
+msgstr "소셜 미디어"
+
+#: inc/options-config.php:360
+msgid "Advanced Options"
+msgstr "고급 옵션"
+
+#: inc/options-config.php:364
+msgid "Custom CSS Styles"
+msgstr "맞춤 제작한 CSS 스타일"
+
+#: inc/options-config.php:370
+msgid "Restore Defaults"
+msgstr "기본 설정값 복원"
+
+#: inc/template-tags.php:40
+msgid "Leave a comment"
+msgstr "댓글 달기"
+
+#: inc/template-tags.php:40
+msgid "1 Comment"
+msgstr "1 댓글"
+
+#: inc/template-tags.php:40
+msgid "% Comments"
+msgstr "% 댓글"
+
+#: inc/template-tags.php:52
+msgid "Featured"
+msgstr "특성"
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Category: %s"
+msgstr "카테고리: %s"
+
+#: inc/template-tags.php:88
+msgid "Tag: %s"
+msgstr "태그: %s"
+
+#: inc/template-tags.php:90 inc/template-tags.php:348
+msgid "Author: %s"
+msgstr "글쓴이: %s"
+
+#: inc/template-tags.php:92
+msgid "Year: %s"
+msgstr "년도: %s"
+
+#: inc/template-tags.php:94
+msgid "Month: %s"
+msgstr "월: %s"
+
+#: inc/template-tags.php:96
+msgid "Day: %s"
+msgstr "날짜: %s"
+
+#: inc/template-tags.php:118
+msgid "Archives: %s"
+msgstr "보관함: %s"
+
+#: inc/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:124
+msgid "Archives"
+msgstr "글목록"
+
+#: inc/template-tags.php:210
+msgid "Pingback:"
+msgstr "핑백:"
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr "입력한 댓글이 검토를 기다리고 있습니다."
+
+#: inc/template-tags.php:248
+msgid "Page"
+msgstr "페이지"
+
+#: inc/template-tags.php:254
+msgid "Older posts"
+msgstr "이전 글"
+
+#: inc/template-tags.php:258
+msgid "Newer posts"
+msgstr "새 글"
+
+#: inc/template-tags.php:296
+msgid "Read More..."
+msgstr "더 보기..."
+
+#: inc/template-tags.php:348
+#, php-format
+msgid "Copyright &copy; %1$d %2$s."
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: inc/template-tags.php:348
+msgid "<span>Active theme</span> %s"
+msgstr "<span>테마 활성화</span> %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "검색 결과: %s"
+
+#: searchform.php:8
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "검색:"
+
+#: searchform.php:9
+msgid "Search"
+msgstr "검색"

@@ -1,0 +1,116 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+-------------------------------------------------------
+    CHANGELOG Legend
+-------------------------------------------------------
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+
+=======================================================
+
+[October 18, 2014] Version 1.0.0 Styled Themes <www.styledthemes.com>
+
+[] Pure & Simple released
+
+=======================================================
+
+
+[October 18, 2014] Version 1.0.1 Styled Themes <www.styledthemes.com>
+
+[*] Corrected the text domain for some language strings
+[x] Removed the premade child theme. Now available as a download.
+[*] Updated the puresimple.pot language file
+[*] Updated the README.txt file
+
+=======================================================
+
+
+[December 15, 2014] version 1.0.2 Styled Themes <www.styledthemes.com>
+[x] Removed import from editor-style.css.
+[^] Moved Font is now enqueued from separate css file.
+
+=======================================================
+
+[December 18, 2014] version 1.0.3 Styled Themes <www.styledthemes.com>
+[!] = Fixed the bug of Primary Menu in mobile view.
+[+] = Added the changelog.txt file.
+
+=======================================================
+
+[December 23, 2014]version 1.0.4 Styled Themes <www.styledthemes.com>
+[!] = Fixed the bug of Primary Menu in mobile view.
+
+
+=======================================================
+
+[January 5, 2015]version 1.0.5 Styled Themes <www.styledthemes.com>
+[!] = Post format title bug fixed.
+
+
+=======================================================
+
+[February 25 2014] version 1.0.6 Styled Themes <www.styledthemes.com>
+[!] Logo Responsive Bug Fixed
+[+] Added CSS for Tables
+[!] Background Header Bug Fixed
+
+=======================================================
+
+[February 25 2014] version 1.0.7 Styled Themes <www.styledthemes.com>
+[x] Deleted Unnecessary Zip file
+
+=======================================================
+
+[March 18 2014] version 1.0.8 Styled Themes <www.styledthemes.com>
+[!] Fixed the Bug of IE Compatibility
+[!] Translation Bug Fixed 
+[+] Dutch Translation Added
+
+----
+(April 20, 2015) - Adjustments - Version 1.0.9
+[!] WooCommerce Support Added
+
+
+(June 23, 2015) - Adjustments - Version 1.0.9
+[+] Documentation Link Added
+[!] Fixed the Bug of Menu Link
+[!] Font Awesome Icon Updated
+
+[September 18, 2015] Version 1.1.1 Styled Themes <www.styledthemes.com>
+
+[!] Wordpress 4.3 Compatiblity bug fixed
+[!] Menu height bug fixed for responsive.
+[+] Default Content for bottom widget of footer
+[+] Drop down menu toogle features added
+[!] Logo size bug fixed
+[!] Feature post image width in mozila firefox bug fixed
+[+] Adding default image for banner Section
+[+] Adding Default Content for Cta widget
+
+------
+[September 22, 2015] Version 1.1.2 Styled Themes <www.styledthemes.com>
+
+[!] Drop Down menu bug fixed
+[!] Default Menu Bug Fixed
+[+] Adding Hide Option for Default content via Customizer
+
+---
+[September 24, 2015] Version 1.1.2 Styled Themes <www.styledthemes.com>
+
+[!] Hide Option for Default content bug fixed
+
+---

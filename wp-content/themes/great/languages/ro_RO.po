@@ -1,0 +1,443 @@
+# This file is distributed under the same license as the Great package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Great\n"
+"POT-Creation-Date: 2015-08-31 14:03+0200\n"
+"PO-Revision-Date: 2015-08-31 20:52+0200\n"
+"Last-Translator: \n"
+"Language-Team: Alvele.com\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hopa! Pagina respectivă nu poate fi găsită."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu a fost găsit nimic aici. Poate încerci o căutare?"
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "Navigare comentarii"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: comments.php:83
+msgid "Name"
+msgstr "Denumire"
+
+#: comments.php:84 inc/options-config.php:166 inc/options-config.php:172
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Pagină web"
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr "Scrie comentariu"
+
+#: comments.php:92
+msgid "Cancel reply"
+msgstr "Anulează răspuns"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Nimic nu a fost găsit"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pregătit să publici primul articol? <a href=\"%1$s\">Începe de aici</a>."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ne pare rau, căutarea nu are nici un rezultat. Vă rugăm să încercați din nou cu unele cuvinte cheie diferite."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Nu s-a putut găsi conținutul căutat. Probabil o căutare sau una dintre legăturile de mai jos pot ajuta."
+
+#: content-page.php:21 inc/template-tags.php:17 inc/template-tags.php:210
+#: inc/template-tags.php:223
+msgid "Edit"
+msgstr "Editează"
+
+#: content-page.php:32 content-single.php:27 content.php:37
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: content.php:29
+msgid "Continue reading %s"
+msgstr "Continuă să citești %s"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: functions.php:100
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: functions.php:109 functions.php:118 functions.php:127
+#: inc/options-config.php:191
+msgid "Footer"
+msgstr "Subsol"
+
+#: functions.php:109
+msgid "Left"
+msgstr "Stânga"
+
+#: functions.php:118
+msgid "Center"
+msgstr "Centru"
+
+#: functions.php:127
+msgid "Right"
+msgstr "Dreapta"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Sari la conținut"
+
+#: inc/admin/class.customized-controls.php:15
+#: inc/admin/class.customized-controls.php:39
+#: inc/admin/class.customized-controls.php:66
+msgid "Premium"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+#, php-format
+msgid "More options available in Pro version. <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:108
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/admin/class.customizer-api-wrapper.php:88
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/extras.php:65
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/extras.php:119 inc/options-config.php:217
+msgid "Read more..."
+msgstr "Citește mai mult..."
+
+#: inc/options-config.php:9
+msgid "Hide"
+msgstr "Ascunde"
+
+#: inc/options-config.php:18
+msgid "Enable this section"
+msgstr "secțiune"
+
+#: inc/options-config.php:34 inc/options-config.php:352
+msgid "Slider"
+msgstr ""
+
+#: inc/options-config.php:39
+msgid "Select Page"
+msgstr "Selectează pagina"
+
+#: inc/options-config.php:39
+msgid "Featured Image"
+msgstr "Imagine reprezentativă"
+
+#: inc/options-config.php:39
+msgid "(required)"
+msgstr "(necesar)"
+
+#: inc/options-config.php:46 inc/options-config.php:90
+msgid "Custom Link"
+msgstr "Legătură personalizată"
+
+#: inc/options-config.php:58
+msgid "Add social media icons in Header"
+msgstr ""
+
+#: inc/options-config.php:64
+msgid "Add social media icons in Footer"
+msgstr ""
+
+#: inc/options-config.php:70
+msgid "Size"
+msgstr "Mărime"
+
+#: inc/options-config.php:94 inc/options-config.php:96
+msgid "Title"
+msgstr "Titlu"
+
+#: inc/options-config.php:102
+msgid "Enter the URL"
+msgstr "Introdu adresa URL"
+
+#: inc/options-config.php:107
+msgid "Open link in a new window/tab"
+msgstr "Deschide legătura într-o fereastră/filă nouă"
+
+#: inc/options-config.php:114
+msgid "Icon"
+msgstr "icoană"
+
+#: inc/options-config.php:121 inc/options-config.php:268
+msgid "Color"
+msgstr "Culoare"
+
+#: inc/options-config.php:140 inc/options-config.php:141
+msgid "Great Theme Options"
+msgstr ""
+
+#: inc/options-config.php:144
+msgid "Header"
+msgstr "Antet"
+
+#: inc/options-config.php:149
+msgid "Logo Upload"
+msgstr "Încarcă Logo"
+
+#: inc/options-config.php:154 inc/options-config.php:160
+msgid "Address"
+msgstr "adresă"
+
+#: inc/options-config.php:160 inc/options-config.php:172
+#: inc/options-config.php:184 inc/options-config.php:262
+#: inc/options-config.php:284 inc/options-config.php:338
+msgid "Text color"
+msgstr "Culoare text"
+
+#: inc/options-config.php:178 inc/options-config.php:184
+msgid "Phone Number"
+msgstr "Numar de telefon"
+
+#: inc/options-config.php:194 inc/options-config.php:199
+msgid "Quote"
+msgstr "Citat"
+
+#: inc/options-config.php:206
+msgid "Author"
+msgstr "Autor"
+
+#: inc/options-config.php:212
+msgid "Link"
+msgstr "Legătură"
+
+#: inc/options-config.php:218 inc/options-config.php:290
+msgid "Link Text"
+msgstr "Textul legăturii"
+
+#: inc/options-config.php:224
+msgid "Style"
+msgstr "Stil"
+
+#: inc/options-config.php:224
+msgid "Display Settings"
+msgstr "Setări afișare"
+
+#: inc/options-config.php:228
+msgid "Primary Color"
+msgstr "de culoare"
+
+#: inc/options-config.php:235 inc/options-config.php:247
+#: inc/options-config.php:275
+msgid "Background Image"
+msgstr "Imagine fundal"
+
+#: inc/options-config.php:235 inc/options-config.php:240
+msgid "Content"
+msgstr "Conținut"
+
+#: inc/options-config.php:240 inc/options-config.php:252
+msgid "Background color"
+msgstr "Culoare de fundal"
+
+#: inc/options-config.php:247 inc/options-config.php:252
+msgid "Widgets"
+msgstr "Piese"
+
+#: inc/options-config.php:257
+msgid "Menu"
+msgstr "Meniu"
+
+#: inc/options-config.php:279
+msgid "All Posts"
+msgstr "Listă articole"
+
+#: inc/options-config.php:297
+msgid "Font Sizes"
+msgstr "Marime Font"
+
+#: inc/options-config.php:303
+msgid "Metadata"
+msgstr "Metadata"
+
+#: inc/options-config.php:308
+msgid "Display post date?"
+msgstr "Afișează dată articol?"
+
+#: inc/options-config.php:314
+msgid "Comments Count &amp; Link"
+msgstr ""
+
+#: inc/options-config.php:320
+msgid "Display item author if available?"
+msgstr "Afișează autorul?"
+
+#: inc/options-config.php:326
+msgid "View Category"
+msgstr "Vezi categorie"
+
+#: inc/options-config.php:332
+msgid "View Tag"
+msgstr "Vezi etichetă"
+
+#: inc/options-config.php:344
+msgid "Posts navigation"
+msgstr "Navigare articole"
+
+#: inc/options-config.php:356
+msgid "Social Media"
+msgstr "Media"
+
+#: inc/options-config.php:360
+msgid "Advanced Options"
+msgstr "Opțiuni Avansate"
+
+#: inc/options-config.php:364
+msgid "Custom CSS Styles"
+msgstr "Stiluri CSS personalizate"
+
+#: inc/options-config.php:370
+msgid "Restore Defaults"
+msgstr "Restaurare Setări Implicite"
+
+#: inc/template-tags.php:40
+msgid "Leave a comment"
+msgstr "Lasă un comentariu"
+
+#: inc/template-tags.php:40
+msgid "1 Comment"
+msgstr "1 comentariu"
+
+#: inc/template-tags.php:40
+msgid "% Comments"
+msgstr "% Comentarii"
+
+#: inc/template-tags.php:52
+msgid "Featured"
+msgstr "Reprezentative"
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Category: %s"
+msgstr "Categorie: %s"
+
+#: inc/template-tags.php:88
+msgid "Tag: %s"
+msgstr "Etichetă: %s"
+
+#: inc/template-tags.php:90 inc/template-tags.php:348
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#: inc/template-tags.php:92
+msgid "Year: %s"
+msgstr "An: %s"
+
+#: inc/template-tags.php:94
+msgid "Month: %s"
+msgstr "Lună: %s"
+
+#: inc/template-tags.php:96
+msgid "Day: %s"
+msgstr "Zi: %s"
+
+#: inc/template-tags.php:118
+msgid "Archives: %s"
+msgstr "Arhive: %s"
+
+#: inc/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:124
+msgid "Archives"
+msgstr "Arhive"
+
+#: inc/template-tags.php:210
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul tău e în așteptare."
+
+#: inc/template-tags.php:248
+msgid "Page"
+msgstr "Pagină"
+
+#: inc/template-tags.php:254
+msgid "Older posts"
+msgstr "Articole mai vechi"
+
+#: inc/template-tags.php:258
+msgid "Newer posts"
+msgstr "Articole mai noi"
+
+#: inc/template-tags.php:296
+msgid "Read More..."
+msgstr "Citește mai mult..."
+
+#: inc/template-tags.php:348
+#, php-format
+msgid "Copyright &copy; %1$d %2$s."
+msgstr ""
+
+#: inc/template-tags.php:348
+msgid "Powered by WordPress"
+msgstr "Rulează pe WordPress în limba română"
+
+#: inc/template-tags.php:348
+msgid "<span>Active theme</span> %s"
+msgstr "<span>Tema activă</span> %s"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Rezultatele căutării pentru: %s"
+
+#: searchform.php:8
+msgid "Search &hellip;"
+msgstr "Cuvinte cheie..."
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "Căutare:"
+
+#: searchform.php:9
+msgid "Search"
+msgstr "Caută"
